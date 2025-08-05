@@ -8,5 +8,3 @@
 
 In this repository, I'm keeping AI-Generated Wallpaper images that I like.
 You are free to share this repository with your loved ones.
-
-DISCLAIMER:
